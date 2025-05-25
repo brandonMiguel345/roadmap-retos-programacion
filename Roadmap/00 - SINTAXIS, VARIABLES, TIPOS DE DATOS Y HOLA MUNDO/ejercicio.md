@@ -33,3 +33,38 @@
 Sigue las **[instrucciones](../../README.md)**, consulta las correcciones y aporta la tuya propia utilizando el lenguaje de programación que quieras.
 
 > Recuerda que cada semana se publica un nuevo ejercicio y se corrige el de la semana anterior en directo desde **[Twitch](https://twitch.tv/mouredev)**. Tienes el horario en la sección "eventos" del servidor de **[Discord](https://discord.gg/mouredev)**.
+>
+> #Esta es mi URL de lenguaje de programación : Python.org
+> 
+> """
+> Hola
+> aprendo
+> python
+> """
+> 
+> 'Hola Mundo !'
+>
+> #varible y constante
+> oracion = "Una linterna nueva"
+> numero = 3
+>  OBJETO = "carro"
+> ORACION = "EL CARRO ESTA HERMOSO"
+>
+> #CADENAS
+> letra = "hola" + " Jose"
+> print(letra)
+> #int
+> suma = 2 + 3
+> print(suma)
+> #float
+> suma_float = 3.4 + 3.4
+> print(suma_float)
+> #boleanos
+> menor = 3 > 4 # false
+> print(mayor)
+> mayor = 7 > 2 # true
+> print(mayor)
+>
+> print("Hola Python")
+>
+> 
